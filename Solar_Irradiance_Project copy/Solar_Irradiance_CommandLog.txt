@@ -1,8 +1,0 @@
-{Error using <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('readtable', '/Applications/MATLAB_R2025b.app/toolbox/matlab/io/tabular/iofun/readtable.m', 19)" style="font-weight:bold">readtable</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2025b.app/toolbox/matlab/io/tabular/iofun/readtable.m',19,0)">line 19</a>)
-Unable to find or open '6.70_2017.csv'. Check the path and filename or file permissions.
-
-Error in <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('Solar_Irradiance_Forecasting_Final', '/Users/lokesh/Documents/MATLAB/Solar_Irradiance_Project/Solar_Irradiance_Forecasting_Final.m', 22)" style="font-weight:bold">Solar_Irradiance_Forecasting_Final</a> (<a href="matlab: opentoline('/Users/lokesh/Documents/MATLAB/Solar_Irradiance_Project/Solar_Irradiance_Forecasting_Final.m',22,0)">line 22</a>)
-    T = readtable(files{i},'VariableNamingRule','preserve');
-        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-} 
-Solar_Irradiance_Forecasting_Final
